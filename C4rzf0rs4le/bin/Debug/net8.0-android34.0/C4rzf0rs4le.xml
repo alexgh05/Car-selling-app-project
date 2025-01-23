@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>C4rzf0rs4le</name>
+    </assembly>
+    <members>
+        <member name="T:C4rzf0rs4le.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:C4rzf0rs4le.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:C4rzf0rs4le.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:C4rzf0rs4le.Properties.Resources.EmbedAssembliesIntoApk">
+            <summary>
+              Looks up a localized string similar to True.
+            </summary>
+        </member>
+    </members>
+</doc>

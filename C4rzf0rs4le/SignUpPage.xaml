@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="C4rzf0rs4le.SignUpPage"
+             BackgroundColor="LightGray">
+    <VerticalStackLayout
+                         VerticalOptions="StartAndExpand" HorizontalOptions="CenterAndExpand" Spacing="3">
+        <Button Text="X" x:Name="CancelButton" MaximumHeightRequest="20" MaximumWidthRequest="20"
+        HorizontalOptions="EndAndExpand" VerticalOptions="Start"
+        Clicked="CancelButton_Clicked" BackgroundColor="Transparent"></Button>
+        <Label Text="Enter your e-mail " TextColor="Black"></Label>
+        <Entry x:Name="EntryEmail" BackgroundColor="White" TextColor="Black"></Entry>
+        <Label Text="Enter your username " TextColor="Black"></Label>
+        <Entry x:Name="Entryusername" BackgroundColor="White" TextColor="Black"></Entry>
+        <Label Text="Enter your password " TextColor="Black"></Label>
+        <Entry x:Name="EnterPasswd" Background="White" TextColor="Black"></Entry>
+        <Label Text="Enter your phone number " TextColor="Black"></Label>
+        <Entry x:Name="Enterphone" BackgroundColor="White" TextColor="Black"></Entry>
+        
+        <Button x:Name="Signupbutton" Text="Sign up"
+                Clicked="Signupbutton_Clicked" BackgroundColor="LightSkyBlue" TextColor="Black"></Button>
+    </VerticalStackLayout>
+</ContentPage>

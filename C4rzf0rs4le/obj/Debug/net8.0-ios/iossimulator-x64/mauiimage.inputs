@@ -1,0 +1,11 @@
+File=Resources\Images\dotnet_bot.png;Link=;BaseSize=300,185;Resize=True;TintColor=;Color=;IsAppIcon=;ForegroundScale=;ForegroundFile=
+File=C:\Users\Alex05\.nuget\packages\mediacontrols.maui\1.0.1\buildTransitive\Resources\Images\aspect.png;Link=;BaseSize=;Resize=;TintColor=;Color=;IsAppIcon=;ForegroundScale=;ForegroundFile=
+File=C:\Users\Alex05\.nuget\packages\mediacontrols.maui\1.0.1\buildTransitive\Resources\Images\fastforward.png;Link=;BaseSize=;Resize=;TintColor=;Color=;IsAppIcon=;ForegroundScale=;ForegroundFile=
+File=C:\Users\Alex05\.nuget\packages\mediacontrols.maui\1.0.1\buildTransitive\Resources\Images\gear.png;Link=;BaseSize=;Resize=;TintColor=;Color=;IsAppIcon=;ForegroundScale=;ForegroundFile=
+File=C:\Users\Alex05\.nuget\packages\mediacontrols.maui\1.0.1\buildTransitive\Resources\Images\mute.png;Link=;BaseSize=;Resize=;TintColor=;Color=;IsAppIcon=;ForegroundScale=;ForegroundFile=
+File=C:\Users\Alex05\.nuget\packages\mediacontrols.maui\1.0.1\buildTransitive\Resources\Images\muted.png;Link=;BaseSize=;Resize=;TintColor=;Color=;IsAppIcon=;ForegroundScale=;ForegroundFile=
+File=C:\Users\Alex05\.nuget\packages\mediacontrols.maui\1.0.1\buildTransitive\Resources\Images\pause.png;Link=;BaseSize=;Resize=;TintColor=;Color=;IsAppIcon=;ForegroundScale=;ForegroundFile=
+File=C:\Users\Alex05\.nuget\packages\mediacontrols.maui\1.0.1\buildTransitive\Resources\Images\play.png;Link=;BaseSize=;Resize=;TintColor=;Color=;IsAppIcon=;ForegroundScale=;ForegroundFile=
+File=C:\Users\Alex05\.nuget\packages\mediacontrols.maui\1.0.1\buildTransitive\Resources\Images\rewind.png;Link=;BaseSize=;Resize=;TintColor=;Color=;IsAppIcon=;ForegroundScale=;ForegroundFile=
+File=C:\Users\Alex05\.nuget\packages\mediacontrols.maui\1.0.1\buildTransitive\Resources\Images\whitefs.png;Link=;BaseSize=;Resize=;TintColor=;Color=;IsAppIcon=;ForegroundScale=;ForegroundFile=
+File=Resources\AppIcon\appicon.svg;Link=;BaseSize=;Resize=;TintColor=;Color=#512BD4;IsAppIcon=True;ForegroundScale=;ForegroundFile=Resources\AppIcon\appiconfg.svg

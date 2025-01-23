@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="C4rzf0rs4le.LogIn"
+             BackgroundColor="LightGray">
+    
+
+    <VerticalStackLayout VerticalOptions="StartAndExpand" 
+                         HorizontalOptions="CenterAndExpand"
+                         Spacing="3">
+       
+        <Button Text="X" 
+                MaximumHeightRequest="20" 
+                MaximumWidthRequest="20"
+                HorizontalOptions="EndAndExpand" 
+                VerticalOptions="Start"
+                BackgroundColor="Transparent"
+            Clicked="Button_Clicked"
+                TextColor="Black"/>
+          
+
+         
+            <Label Text="Enter your e-mail "
+               TextColor="Black"/>
+            
+            <Entry x:Name="EmailEntryBox" 
+               BackgroundColor="White" 
+                TextColor="Black"
+               
+                PlaceholderColor="Gray"/>
+               
+                <Label Text="Enter your username "
+               TextColor="Black"/>
+               
+                <Entry x:Name="UsernameEntryBox" 
+               BackgroundColor="White" 
+                    TextColor="Black"
+                    
+                    PlaceholderColor="Gray"/>
+                   
+                    <Label Text="Enter your password "
+               TextColor="Black"/>
+                   
+                    <Entry IsPassword="True" 
+               x:Name="PasswordEntryBox" 
+               BackgroundColor="White" 
+                        TextColor="Black"
+                        
+                        PlaceholderColor="Gray"/>
+
+                        <Button Text="Log In" 
+                x:Name="LogInButton" 
+                
+                BackgroundColor="LightSkyBlue" 
+                            TextColor="Black"
+                       Clicked="LogInButton_Clicked" />
+    </VerticalStackLayout>
+</ContentPage>

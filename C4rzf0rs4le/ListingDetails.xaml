@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             x:Class="C4rzf0rs4le.ListingDetails"
+            Background="LightSkyBlue">
+    <ScrollView>
+    <VerticalStackLayout >
+        <Button Text="X" MaximumHeightRequest="20" MaximumWidthRequest="20"
+ HorizontalOptions="EndAndExpand" VerticalOptions="Start"
+ Clicked="Button_Clicked" BackgroundColor="Transparent"></Button>
+            <Frame CornerRadius="10" BackgroundColor="LightGray" Margin="10" BorderColor="Black">
+                <VerticalStackLayout Padding="15" Spacing="10">
+                    <Frame CornerRadius="10" BackgroundColor="SkyBlue" Margin="10" BorderColor="Black" HorizontalOptions="Center">
+                        <HorizontalStackLayout Spacing="5" HorizontalOptions="Center">
+                            <Label Text="{Binding make}" FontSize="20" FontAttributes="Bold" TextColor="Black" />
+                            <Label Text="{Binding model}" FontSize="20" FontAttributes="Bold" TextColor="Black" />
+                        </HorizontalStackLayout>
+                    </Frame>
+                    <!-- Car Video -->
+                    <toolkit:MediaElement 
+              
+              ShouldAutoPlay="True" 
+              ShouldMute="True"
+              Aspect="Center"
+              VerticalOptions="Center"
+              HorizontalOptions="CenterAndExpand"   
+              Margin="10"
+              Source="{Binding video_director}" />
+
+                    <!-- Car Details -->
+                    <Frame HorizontalOptions="Start" CornerRadius="10" BackgroundColor="LightSkyBlue" BorderColor="Black" >
+                        <HorizontalStackLayout Spacing="10" HorizontalOptions="FillAndExpand" >
+                            <Label Text="Year:" FontSize="Medium" TextColor="DarkGray" />
+                            <Label Text="{Binding make_year}" FontSize="Medium" TextColor="Black" />
+                        </HorizontalStackLayout>
+                    </Frame>
+                    <Frame HorizontalOptions="Start" CornerRadius="10" BackgroundColor="LightSkyBlue" BorderColor="Black" >
+                        <HorizontalStackLayout Spacing="10" HorizontalOptions="FillAndExpand">
+                            <Label Text="Mileage:" FontSize="Medium" TextColor="DarkGray" />
+                            <Label Text="{Binding mileage}" FontSize="Medium" TextColor="Black" />
+                            <Label Text="Km" FontSize="Medium" TextColor="Black" />
+                        </HorizontalStackLayout>
+                    </Frame>
+                    <Frame HorizontalOptions="Start" CornerRadius="10" BackgroundColor="LightSkyBlue" BorderColor="Black" >
+                        <HorizontalStackLayout Spacing="10" HorizontalOptions="FillAndExpand">
+                            <Label Text="Power:" FontSize="Medium" TextColor="DarkGray" />
+                            <Label Text="{Binding hp}" FontSize="Medium" TextColor="Black" />
+                            <Label Text="HP" FontSize="Medium" TextColor="Black" />
+                        </HorizontalStackLayout>
+                    </Frame>
+
+                    <Frame HorizontalOptions="Start" CornerRadius="10" BackgroundColor="LightSkyBlue" BorderColor="Black" >
+                        <HorizontalStackLayout Spacing="10" HorizontalOptions="FillAndExpand">
+                            <Label Text="Color:" FontSize="Medium" TextColor="DarkGray" />
+                            <Label Text="{Binding color}" FontSize="Medium" TextColor="Black" />
+                        </HorizontalStackLayout>
+                    </Frame>
+                    <Frame HorizontalOptions="Start" CornerRadius="10" BackgroundColor="LightSkyBlue" BorderColor="Black" >
+                        <HorizontalStackLayout Spacing="10" HorizontalOptions="FillAndExpand">
+                            <Label Text="Price:" FontSize="Medium" TextColor="DarkGray" />
+                            <Label Text="{Binding price}" FontSize="Medium" TextColor="Black" />
+                            <Label Text="€" FontSize="Medium" TextColor="Black" />
+                        </HorizontalStackLayout>
+                    </Frame>
+                    <Frame HorizontalOptions="Start" CornerRadius="10" BackgroundColor="LightSkyBlue" BorderColor="Black" >
+                    <HorizontalStackLayout Spacing="10" HorizontalOptions="FillAndExpand">
+                        <Label Text="Phone number:" FontSize="Medium" TextColor="DarkGray" />
+                        <Label Text="{Binding phoneNumber}" FontSize="Medium" TextColor="Black" />
+                       
+                    </HorizontalStackLayout>
+            </Frame>
+
+
+        </VerticalStackLayout>
+            </Frame>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="C4rzf0rs4le.SearchPage" Background="LightGray">
+    <VerticalStackLayout Spacing="3">
+        <Button Text="X" 
+    MaximumHeightRequest="20" 
+    MaximumWidthRequest="20"
+    HorizontalOptions="EndAndExpand" 
+    VerticalOptions="Start"
+    BackgroundColor="Transparent"
+Clicked="Button_Clicked"
+    TextColor="Black"/>
+        <Label Text="Search for your dream car" FontSize="Large" HorizontalOptions="Center" TextColor="Black"/>
+        <SearchBar x:Name="MakeEntry" Placeholder="Make" TextColor="Black"/>
+        <SearchBar x:Name="ModelEntry" Placeholder="Model" TextColor="Black" />
+        <SearchBar x:Name="YearEntry" Placeholder="Starting year" Keyboard="Numeric" TextColor="Black"/>
+        <SearchBar x:Name="YearEntry2" Placeholder="Ending year" Keyboard="Numeric" TextColor="Black"/>
+        <SearchBar x:Name="HPEntry" Placeholder="Minimum HP" Keyboard="Numeric" TextColor="Black"/>
+        <SearchBar x:Name="HPEntry2" Placeholder="Maximum HP" Keyboard="Numeric" TextColor="Black" />
+        <SearchBar x:Name="ColorEntry" Placeholder="Color" TextColor="Black"/>
+        <SearchBar x:Name="MileageEntry" Placeholder="Maximum Mileage" Keyboard="Numeric" TextColor="Black"/>
+        <SearchBar x:Name="PriceEntry" Placeholder="Maximum Price" Keyboard="Numeric" TextColor="Black"/>
+        <SearchBar x:Name="PriceEntry2" Placeholder="Minimum Price" Keyboard="Numeric" TextColor="Black"/>
+        <Button x:Name="SearchButton" Text="Search" Clicked="SearchButton_Clicked" BackgroundColor="LightSkyBlue" TextColor="Black" />
+    </VerticalStackLayout>
+</ContentPage>

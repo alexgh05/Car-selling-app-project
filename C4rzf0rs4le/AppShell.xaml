@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="C4rzf0rs4le.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:C4rzf0rs4le"
+    Shell.FlyoutBehavior="Disabled"
+    Title="C4rzf0rs4le">
+
+    <ShellContent
+        
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+    <ShellContent
+    
+     ContentTemplate="{DataTemplate local:LogIn}"
+     Route="LogIn" />
+    <ShellContent
+     
+     ContentTemplate="{DataTemplate local:SignUpPage}"
+     Route="SignUpPage" />
+    <ShellContent
+     
+     ContentTemplate="{DataTemplate local:ListingDetails}"
+     Route="ListingDetails" />
+    <ShellContent
+        
+        ContentTemplate="{DataTemplate local:Userslistings}"
+        Route="Userslistings"></ShellContent>
+    <ShellContent
+    
+    ContentTemplate="{DataTemplate local:AddListingPage}"
+    Route="AddListingPage"></ShellContent>
+    <ShellContent
+        
+        ContentTemplate="{DataTemplate local:SearchPage}"
+        Route="SearchPage"></ShellContent>
+    <ShellContent
+       
+        ContentTemplate="{DataTemplate local:ListingPage}"
+        Route="ListingPage"></ShellContent>
+</Shell>

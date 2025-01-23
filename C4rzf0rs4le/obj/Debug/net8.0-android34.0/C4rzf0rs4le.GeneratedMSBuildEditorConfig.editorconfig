@@ -1,0 +1,89 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-android34.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = C4rzf0rs4le
+build_property.ProjectDir = E:\source\C4rzf0rs4le\C4rzf0rs4le\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[E:/source/C4rzf0rs4le/C4rzf0rs4le/AddListingPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C4rzf0rs4le.AddListingPage.xaml
+build_metadata.AdditionalFiles.TargetPath = AddListingPage.xaml
+build_metadata.AdditionalFiles.RelativePath = AddListingPage.xaml
+
+[E:/source/C4rzf0rs4le/C4rzf0rs4le/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C4rzf0rs4le.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[E:/source/C4rzf0rs4le/C4rzf0rs4le/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C4rzf0rs4le.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[E:/source/C4rzf0rs4le/C4rzf0rs4le/ListingDetails.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C4rzf0rs4le.ListingDetails.xaml
+build_metadata.AdditionalFiles.TargetPath = ListingDetails.xaml
+build_metadata.AdditionalFiles.RelativePath = ListingDetails.xaml
+
+[E:/source/C4rzf0rs4le/C4rzf0rs4le/ListingPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C4rzf0rs4le.ListingPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ListingPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ListingPage.xaml
+
+[E:/source/C4rzf0rs4le/C4rzf0rs4le/LogIn.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C4rzf0rs4le.LogIn.xaml
+build_metadata.AdditionalFiles.TargetPath = LogIn.xaml
+build_metadata.AdditionalFiles.RelativePath = LogIn.xaml
+
+[E:/source/C4rzf0rs4le/C4rzf0rs4le/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C4rzf0rs4le.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[E:/source/C4rzf0rs4le/C4rzf0rs4le/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C4rzf0rs4le.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[E:/source/C4rzf0rs4le/C4rzf0rs4le/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C4rzf0rs4le.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[E:/source/C4rzf0rs4le/C4rzf0rs4le/SearchPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C4rzf0rs4le.SearchPage.xaml
+build_metadata.AdditionalFiles.TargetPath = SearchPage.xaml
+build_metadata.AdditionalFiles.RelativePath = SearchPage.xaml
+
+[E:/source/C4rzf0rs4le/C4rzf0rs4le/SignUpPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C4rzf0rs4le.SignUpPage.xaml
+build_metadata.AdditionalFiles.TargetPath = SignUpPage.xaml
+build_metadata.AdditionalFiles.RelativePath = SignUpPage.xaml
+
+[E:/source/C4rzf0rs4le/C4rzf0rs4le/Userslistings.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C4rzf0rs4le.Userslistings.xaml
+build_metadata.AdditionalFiles.TargetPath = Userslistings.xaml
+build_metadata.AdditionalFiles.RelativePath = Userslistings.xaml

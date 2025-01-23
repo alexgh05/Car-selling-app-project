@@ -1,0 +1,573 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\source\\C4rzf0rs4le\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|e:\\source\\c4rzf0rs4le\\c4rzf0rs4le\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|solutionrelative:c4rzf0rs4le\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|e:\\source\\c4rzf0rs4le\\c4rzf0rs4le\\addlistingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|solutionrelative:c4rzf0rs4le\\addlistingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|e:\\source\\c4rzf0rs4le\\c4rzf0rs4le\\searchpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|solutionrelative:c4rzf0rs4le\\searchpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|e:\\source\\c4rzf0rs4le\\c4rzf0rs4le\\listingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|solutionrelative:c4rzf0rs4le\\listingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|e:\\source\\c4rzf0rs4le\\c4rzf0rs4le\\listingdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|solutionrelative:c4rzf0rs4le\\listingdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|e:\\source\\c4rzf0rs4le\\c4rzf0rs4le\\addlistingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|solutionrelative:c4rzf0rs4le\\addlistingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|e:\\source\\c4rzf0rs4le\\c4rzf0rs4le\\mainpageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|solutionrelative:c4rzf0rs4le\\mainpageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|e:\\source\\c4rzf0rs4le\\c4rzf0rs4le\\listingdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|solutionrelative:c4rzf0rs4le\\listingdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|e:\\source\\c4rzf0rs4le\\c4rzf0rs4le\\listingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|solutionrelative:c4rzf0rs4le\\listingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|e:\\source\\c4rzf0rs4le\\c4rzf0rs4le\\searchpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|solutionrelative:c4rzf0rs4le\\searchpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|e:\\source\\c4rzf0rs4le\\c4rzf0rs4le\\listingpageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|solutionrelative:c4rzf0rs4le\\listingpageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|e:\\source\\c4rzf0rs4le\\c4rzf0rs4le\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|solutionrelative:c4rzf0rs4le\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|e:\\source\\c4rzf0rs4le\\c4rzf0rs4le\\addloginandsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|solutionrelative:c4rzf0rs4le\\addloginandsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|e:\\source\\c4rzf0rs4le\\c4rzf0rs4le\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|solutionrelative:c4rzf0rs4le\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|e:\\source\\c4rzf0rs4le\\c4rzf0rs4le\\userslistings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|solutionrelative:c4rzf0rs4le\\userslistings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|e:\\source\\c4rzf0rs4le\\c4rzf0rs4le\\userslistings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|solutionrelative:c4rzf0rs4le\\userslistings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|e:\\source\\c4rzf0rs4le\\c4rzf0rs4le\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|solutionrelative:c4rzf0rs4le\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|e:\\source\\c4rzf0rs4le\\c4rzf0rs4le\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|solutionrelative:c4rzf0rs4le\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|e:\\source\\c4rzf0rs4le\\c4rzf0rs4le\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|solutionrelative:c4rzf0rs4le\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|e:\\source\\c4rzf0rs4le\\c4rzf0rs4le\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|solutionrelative:c4rzf0rs4le\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|e:\\source\\c4rzf0rs4le\\c4rzf0rs4le\\platforms\\windows\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|solutionrelative:c4rzf0rs4le\\platforms\\windows\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|e:\\source\\c4rzf0rs4le\\c4rzf0rs4le\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|solutionrelative:c4rzf0rs4le\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|e:\\source\\c4rzf0rs4le\\c4rzf0rs4le\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|solutionrelative:c4rzf0rs4le\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|e:\\source\\c4rzf0rs4le\\c4rzf0rs4le\\c4rzf0rs4le.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|solutionrelative:c4rzf0rs4le\\c4rzf0rs4le.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|e:\\source\\c4rzf0rs4le\\c4rzf0rs4le\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|solutionrelative:c4rzf0rs4le\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|e:\\source\\c4rzf0rs4le\\c4rzf0rs4le\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|solutionrelative:c4rzf0rs4le\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|e:\\source\\c4rzf0rs4le\\c4rzf0rs4le\\listing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|solutionrelative:c4rzf0rs4le\\listing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|e:\\source\\c4rzf0rs4le\\c4rzf0rs4le\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|solutionrelative:c4rzf0rs4le\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|e:\\source\\c4rzf0rs4le\\c4rzf0rs4le\\userscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|solutionrelative:c4rzf0rs4le\\userscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alex05\\VideoUploadAPI\\Controllers\\VideoListingsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alex05\\VideoUploadAPI\\Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alex05\\VideoUploadAPI\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|e:\\source\\c4rzf0rs4le\\c4rzf0rs4le\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|solutionrelative:c4rzf0rs4le\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|e:\\source\\c4rzf0rs4le\\c4rzf0rs4le\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|solutionrelative:c4rzf0rs4le\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|e:\\source\\c4rzf0rs4le\\c4rzf0rs4le\\c4rzf0rs4le.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A7FF98CB-4E98-4737-9768-8411F16F1095}|C4rzf0rs4le\\C4rzf0rs4le.csproj|solutionrelative:c4rzf0rs4le\\c4rzf0rs4le.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddListingPage.xaml.cs",
+              "DocumentMoniker": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\AddListingPage.xaml.cs",
+              "RelativeDocumentMoniker": "C4rzf0rs4le\\AddListingPage.xaml.cs",
+              "ToolTip": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\AddListingPage.xaml.cs",
+              "RelativeToolTip": "C4rzf0rs4le\\AddListingPage.xaml.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAjwI4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T15:27:45.372Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddListingPage.xaml",
+              "DocumentMoniker": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\AddListingPage.xaml",
+              "RelativeDocumentMoniker": "C4rzf0rs4le\\AddListingPage.xaml",
+              "ToolTip": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\AddListingPage.xaml",
+              "RelativeToolTip": "C4rzf0rs4le\\AddListingPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-01T15:26:47.377Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\MainPage.xaml",
+              "RelativeDocumentMoniker": "C4rzf0rs4le\\MainPage.xaml",
+              "ToolTip": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\MainPage.xaml",
+              "RelativeToolTip": "C4rzf0rs4le\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T16:51:34.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListingDetails.xaml",
+              "DocumentMoniker": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\ListingDetails.xaml",
+              "RelativeDocumentMoniker": "C4rzf0rs4le\\ListingDetails.xaml",
+              "ToolTip": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\ListingDetails.xaml",
+              "RelativeToolTip": "C4rzf0rs4le\\ListingDetails.xaml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAjwEQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T08:17:52.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPageView.cs",
+              "DocumentMoniker": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\MainPageView.cs",
+              "RelativeDocumentMoniker": "C4rzf0rs4le\\MainPageView.cs",
+              "ToolTip": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\MainPageView.cs",
+              "RelativeToolTip": "C4rzf0rs4le\\MainPageView.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAqwD8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T20:34:12.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchPage.xaml",
+              "DocumentMoniker": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\SearchPage.xaml",
+              "RelativeDocumentMoniker": "C4rzf0rs4le\\SearchPage.xaml",
+              "ToolTip": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\SearchPage.xaml",
+              "RelativeToolTip": "C4rzf0rs4le\\SearchPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T17:19:02.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListingPage.xaml",
+              "DocumentMoniker": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\ListingPage.xaml",
+              "RelativeDocumentMoniker": "C4rzf0rs4le\\ListingPage.xaml",
+              "ToolTip": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\ListingPage.xaml",
+              "RelativeToolTip": "C4rzf0rs4le\\ListingPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T17:52:23.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListingDetails.xaml.cs",
+              "DocumentMoniker": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\ListingDetails.xaml.cs",
+              "RelativeDocumentMoniker": "C4rzf0rs4le\\ListingDetails.xaml.cs",
+              "ToolTip": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\ListingDetails.xaml.cs",
+              "RelativeToolTip": "C4rzf0rs4le\\ListingDetails.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T08:23:38.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SearchPage.xaml.cs",
+              "DocumentMoniker": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\SearchPage.xaml.cs",
+              "RelativeDocumentMoniker": "C4rzf0rs4le\\SearchPage.xaml.cs",
+              "ToolTip": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\SearchPage.xaml.cs",
+              "RelativeToolTip": "C4rzf0rs4le\\SearchPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:26:55.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListingPage.xaml.cs",
+              "DocumentMoniker": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\ListingPage.xaml.cs",
+              "RelativeDocumentMoniker": "C4rzf0rs4le\\ListingPage.xaml.cs",
+              "ToolTip": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\ListingPage.xaml.cs",
+              "RelativeToolTip": "C4rzf0rs4le\\ListingPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:56:46.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ListingPageView.cs",
+              "DocumentMoniker": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\ListingPageView.cs",
+              "RelativeDocumentMoniker": "C4rzf0rs4le\\ListingPageView.cs",
+              "ToolTip": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\ListingPageView.cs",
+              "RelativeToolTip": "C4rzf0rs4le\\ListingPageView.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAD4vyoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T08:31:16.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "C4rzf0rs4le\\MainPage.xaml.cs",
+              "ToolTip": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\MainPage.xaml.cs",
+              "RelativeToolTip": "C4rzf0rs4le\\MainPage.xaml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAtwDAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T19:45:07.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddLoginAndSignup.cs",
+              "DocumentMoniker": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\AddLoginAndSignup.cs",
+              "RelativeDocumentMoniker": "C4rzf0rs4le\\AddLoginAndSignup.cs",
+              "ToolTip": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\AddLoginAndSignup.cs",
+              "RelativeToolTip": "C4rzf0rs4le\\AddLoginAndSignup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:56:08.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LogIn.xaml",
+              "DocumentMoniker": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\LogIn.xaml",
+              "RelativeDocumentMoniker": "C4rzf0rs4le\\LogIn.xaml",
+              "ToolTip": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\LogIn.xaml",
+              "RelativeToolTip": "C4rzf0rs4le\\LogIn.xaml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAjwDcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-13T08:10:13.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Userslistings.xaml",
+              "DocumentMoniker": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\Userslistings.xaml",
+              "RelativeDocumentMoniker": "C4rzf0rs4le\\Userslistings.xaml",
+              "ToolTip": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\Userslistings.xaml",
+              "RelativeToolTip": "C4rzf0rs4le\\Userslistings.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T05:12:56.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Userslistings.xaml.cs",
+              "DocumentMoniker": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\Userslistings.xaml.cs",
+              "RelativeDocumentMoniker": "C4rzf0rs4le\\Userslistings.xaml.cs",
+              "ToolTip": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\Userslistings.xaml.cs",
+              "RelativeToolTip": "C4rzf0rs4le\\Userslistings.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAApwBAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T05:17:28.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SignUpPage.xaml.cs",
+              "DocumentMoniker": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\SignUpPage.xaml.cs",
+              "RelativeDocumentMoniker": "C4rzf0rs4le\\SignUpPage.xaml.cs",
+              "ToolTip": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\SignUpPage.xaml.cs",
+              "RelativeToolTip": "C4rzf0rs4le\\SignUpPage.xaml.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAIAwwEUAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T15:20:51.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SignUpPage.xaml",
+              "DocumentMoniker": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\SignUpPage.xaml",
+              "RelativeDocumentMoniker": "C4rzf0rs4le\\SignUpPage.xaml",
+              "ToolTip": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\SignUpPage.xaml",
+              "RelativeToolTip": "C4rzf0rs4le\\SignUpPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-14T15:17:39.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\AppShell.xaml",
+              "RelativeDocumentMoniker": "C4rzf0rs4le\\AppShell.xaml",
+              "ToolTip": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\AppShell.xaml",
+              "RelativeToolTip": "C4rzf0rs4le\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-11T19:47:14.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LogIn.xaml.cs",
+              "DocumentMoniker": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\LogIn.xaml.cs",
+              "RelativeDocumentMoniker": "C4rzf0rs4le\\LogIn.xaml.cs",
+              "ToolTip": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\LogIn.xaml.cs",
+              "RelativeToolTip": "C4rzf0rs4le\\LogIn.xaml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAADwvzMAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:18:40.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "C4rzf0rs4le\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\Properties\\launchSettings.json",
+              "RelativeToolTip": "C4rzf0rs4le\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-04T14:01:27.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "app.manifest",
+              "DocumentMoniker": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\Platforms\\Windows\\app.manifest",
+              "RelativeDocumentMoniker": "C4rzf0rs4le\\Platforms\\Windows\\app.manifest",
+              "ToolTip": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\Platforms\\Windows\\app.manifest",
+              "RelativeToolTip": "C4rzf0rs4le\\Platforms\\Windows\\app.manifest",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2024-06-04T14:01:42.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "C4rzf0rs4le\\MauiProgram.cs",
+              "ToolTip": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\MauiProgram.cs",
+              "RelativeToolTip": "C4rzf0rs4le\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T19:44:10.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "C4rzf0rs4le.csproj",
+              "DocumentMoniker": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\C4rzf0rs4le.csproj",
+              "RelativeDocumentMoniker": "C4rzf0rs4le\\C4rzf0rs4le.csproj",
+              "ToolTip": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\C4rzf0rs4le.csproj",
+              "RelativeToolTip": "C4rzf0rs4le\\C4rzf0rs4le.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T17:52:10.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Car.cs",
+              "DocumentMoniker": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\Car.cs",
+              "RelativeDocumentMoniker": "C4rzf0rs4le\\Car.cs",
+              "ToolTip": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\Car.cs",
+              "RelativeToolTip": "C4rzf0rs4le\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T20:12:56.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\App.xaml",
+              "RelativeDocumentMoniker": "C4rzf0rs4le\\App.xaml",
+              "ToolTip": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\App.xaml",
+              "RelativeToolTip": "C4rzf0rs4le\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-13T08:14:31.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Listing.cs",
+              "DocumentMoniker": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\Listing.cs",
+              "RelativeDocumentMoniker": "C4rzf0rs4le\\Listing.cs",
+              "ToolTip": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\Listing.cs",
+              "RelativeToolTip": "C4rzf0rs4le\\Listing.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:29:29.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\User.cs",
+              "RelativeDocumentMoniker": "C4rzf0rs4le\\User.cs",
+              "ToolTip": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\User.cs",
+              "RelativeToolTip": "C4rzf0rs4le\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:22:05.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UsersContext.cs",
+              "DocumentMoniker": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\UsersContext.cs",
+              "RelativeDocumentMoniker": "C4rzf0rs4le\\UsersContext.cs",
+              "ToolTip": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\UsersContext.cs",
+              "RelativeToolTip": "C4rzf0rs4le\\UsersContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:13:56.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "VideoListingsController.cs",
+              "DocumentMoniker": "C:\\Users\\Alex05\\VideoUploadAPI\\Controllers\\VideoListingsController.cs",
+              "ToolTip": "C:\\Users\\Alex05\\VideoUploadAPI\\Controllers\\VideoListingsController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAkwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:40:30.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Alex05\\VideoUploadAPI\\Startup.cs",
+              "ToolTip": "C:\\Users\\Alex05\\VideoUploadAPI\\Startup.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAArwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:26:19.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alex05\\VideoUploadAPI\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Alex05\\VideoUploadAPI\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwBUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:19:00.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\App.xaml.cs",
+              "RelativeDocumentMoniker": "C4rzf0rs4le\\App.xaml.cs",
+              "ToolTip": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\App.xaml.cs",
+              "RelativeToolTip": "C4rzf0rs4le\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T19:44:06.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "C4rzf0rs4le\\AppShell.xaml.cs",
+              "ToolTip": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\AppShell.xaml.cs",
+              "RelativeToolTip": "C4rzf0rs4le\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T19:44:02.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "C4rzf0rs4le",
+              "DocumentMoniker": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\C4rzf0rs4le.csproj",
+              "RelativeDocumentMoniker": "C4rzf0rs4le\\C4rzf0rs4le.csproj",
+              "ToolTip": "E:\\source\\C4rzf0rs4le\\C4rzf0rs4le\\C4rzf0rs4le.csproj",
+              "RelativeToolTip": "C4rzf0rs4le\\C4rzf0rs4le.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-12T20:39:20.131Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
